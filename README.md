@@ -5,7 +5,7 @@ This Project is used to determine whether the given text or sentence is sarcasti
 
 
 # Installation of the required libraries and pre-trained model:
-' pip install numpy '
+'pip install numpy
 pip install pandas
 pip install matplotlib ( for Data Visualization )
 pip install re
