@@ -1,13 +1,11 @@
 # NLP_Project
-Sarcasm Detection Using NLP And ML
-Project Id: 05
-Name SRN
-Pawan Prasad P PES2UG19CS280
-Phani Kumar Vedurumudi PES2UG19CS281
-Rithika Reddy Kara PES2UG19CS331
+# Sarcasm Detection Using NLP And ML </br>
+
 This Project is used to determine whether the given text or sentence is sarcastic or not. Sarcasm refers to the use of words that mean the opposite of what you really want to say, especially in order to insult someone, or to show irritation, or just to be funny. A basic detector which is used to find whether a text is sarcastic or not based on the sarcastic word present in the text. The two main models used in this project are GloVe Model and LSTM Model for sarcasm detection. The project aim is to find a more accurate and precise way of predicting whether the sentence is sarcastic or not using ML model. The main aim is to increase the accuracy rate in the prediction.
-Installation of the required libraries and pre-trained model:
-pip install numpy
+
+
+# Installation of the required libraries and pre-trained model:
+' pip install numpy '
 pip install pandas
 pip install matplotlib ( for Data Visualization )
 pip install re
